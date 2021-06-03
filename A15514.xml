@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Motives maintained. Or a reply vnto M. Chillingvvorthes ansvvere to his ovvne motiues of his conuersion to Catholike religion</title>
+            <author>Knott, Edward, 1582-1656.</author>
+         </titleStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A15514</idno><idno type="EEBO-CITATION">99838526</idno>
+  <idno type="VID">2908</idno>
+  <idno type="EEBO-PROQUEST">2240873225</idno>
+  <idno type="STC">STC 25780</idno>
+  <idno type="STC">ESTC S102761</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99838526e"/>
+            <note>(EEBO-TCP ; phase 2, no. A15514)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 2908)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1123:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Motives maintained. Or a reply vnto M. Chillingvvorthes ansvvere to his ovvne motiues of his conuersion to Catholike religion</title>
+                  <author>Knott, Edward, 1582-1656.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>English College Press],</publisher>
+                  <pubPlace>[Saint-Omer :</pubPlace>
+                  <date>Permissu superiorum. 1638.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Edward Knott, a pseudonym used by Matthew Wilson from 1692 onwards.</note>
+                  <note>Printer and place of publication from STC.</note>
+                  <note>Running title reads: Motiues maintayned.</note>
+                  <note>An answer to: "The religion of Protestants a safe way to salvation", by William Chillingworth, which was a reply to "Mercy and truth; or, charity maintained by Catholiques", written by Wilson under the pseudonym Edward Knott.</note>
+                  <note>Some print faded and show-through.</note>
+                  <note>Reproduction of the original in Yale University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Chillingworth, William, 1602-1644. --  Religion of Protestants a safe way to salvation --  Controversial literature.</term>
+               <term type="personal_name">Knott, Edward, 1582-1656. --  Mercy and truth.</term>
+               <term type="corporate_name">Catholic Church --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:2908:1"/>
+            <p>MOTIVES MAINTAINED. OR A Reply vnto <hi>M. Chillingvvorthes</hi> Ansvvere to his ovvne <hi>Motiues</hi> of his Conuersion to Ca<g ref="char:EOLhyphen"/>tholike Religion:</p>
+            <q>
+               <bibl>
+                  <hi>Iac.</hi> 1. <hi>vers.</hi> 8.</bibl>
+               <p>A man double of mind is inconstant in all his waies.</p>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Permissu Superiorum. 1638.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:2908:2"/>
+            <pb n="3" facs="tcp:2908:2"/>
+            <head>A Reply vnto <hi>M. Chillingvvorthes</hi> Ansvvere to his ovvne Motiues, of his Conuersion to Cath. Religion.</head>
+            <p>
+               <seg rend="decorInit">B</seg>E pleased, Christian Reader, to be informed, or to remember, if thou know it already, that <hi>M. Chilling<g ref="char:EOLhyphen"/>worth,</hi> the <hi>Answerer</hi> to <hi>Charity main<g ref="char:EOLhyphen"/>tained,</hi> vpon his Conuersion from <hi>Protestancy</hi> to <hi>Catholike Religion,</hi> set downe diuers good and solide <hi>Mo<g ref="char:EOLhyphen"/>tiues,</hi> which induced him to that resolution; and af<g ref="char:EOLhyphen"/>ter diuers turnings, and returnings, to and from that Religion which for so conuincing <hi>Motiues</hi> he then imbraced, novv he hath published an <hi>Answere</hi> to those his owne <hi>Motiues:</hi> but such an answere as proues him to be neyther <hi>Catholike</hi> nor <hi>Protestant</hi> for his beliefe. For through all his <hi>Answers,</hi> Catholiks are impugned, Protestants abandoned, and grounds layd for a new, and wicked Sect, which in this Kingdome begins to be knowne, and spoken of, by the name of <hi>Socinianis<g ref="char:EOLhyphen"/>me.</hi> My intention is briefly, to maintaine the <hi>Answe<g ref="char:EOLhyphen"/>rers</hi> Catholike <hi>Motiues,</hi> against his owne <hi>Answers</hi> to them. The method, I purpose to hold, shall be natu<g ref="char:EOLhyphen"/>rall
+<pb n="4" facs="tcp:2908:3"/>and cleer in it selfe, and easy for thy comprehen<g ref="char:EOLhyphen"/>sion and memory; setting downe in order, <hi>first,</hi> the <hi>Motiue; then</hi> his <hi>Answere</hi> to it; and <hi>thirdly</hi> my <hi>Reply.</hi> or Confutation of his <hi>Answere.</hi>
+            </p>
+            <div n="1" type="motif">
+               <head>MOTIVE I.</head>
+               <p>Because perpetuall visible profession, which could neuer be wanting to the Religion of Christ, nor any part of it, is apparently wanting to Protestant Reli<g ref="char:EOLhyphen"/>gion, so farre as concernes the Points in contesta<g ref="char:EOLhyphen"/>tion.</p>
+            </div>
+            <div type="answer">
+               <head>ANSWERE.</head>
+               <p>
+                  <hi>God hath neyther decreed nor foretold, that his true do<g ref="char:EOLhyphen"/>ctrine should</hi> de facto, <hi>be alwayes visibly professed, without any mixture of falshood.</hi>
+               </p>
+            </div>
+            <div type="reply">
+               <head>REPLY.</head>
+               <p>The direct and pertinent <hi>Answere</hi> to this <hi>Motiue,</hi> had been, to maintayne, that visible Profession was neuer wanting to <hi>Protestant Religion, so farre as concer<g ref="char:EOLhyphen"/>nes the Points in contestation.</hi> But forsaking this right way of defence (wherin he may well be excused, no man being boūd to performe impossibilities) he flyes from the question, and tells vs, that it is not neces<g ref="char:EOLhyphen"/>sary, there should be alwayes a Church, visibly pro<g ref="char:EOLhyphen"/>fessing true doctrine, <hi>without any mixture of falshood.</hi> Which is nothing to the purpose, for this argumēt is still in force: The true Church of Christ must be al<g ref="char:EOLhyphen"/>wayes visible (whether with, or without mixture of corruptions, we need not consider for the pre<g ref="char:EOLhyphen"/>sent:) But the Protestant Church, as it is distinct frō
+<pb n="5" facs="tcp:2908:3"/>Ours; hath not byn alwayes visible: Therefore, the Protestant Church as it is distinct from Ours, is not the true Church of Christ. The <hi>Maior</hi> he grants in di<g ref="char:EOLhyphen"/>uers places of his Booke, &amp; euen in this his <hi>Answere,</hi> vpon condition that we grant a possibility of corrup<g ref="char:EOLhyphen"/>tion in the Church, as for the present we are content to doe, by way of supposing a falshood. The <hi>Minor</hi> is affirmed in the <hi>Motiue,</hi> and not denyed in his <hi>Answere,</hi> nor can be denyed by any man of iudge<g ref="char:EOLhyphen"/>ment, and learning: And so the Conclusion must of necessity follow. But now, if this were a fit place to proue, that the true Church must be infallible, &amp;c not subiect to any errour in Fayth, it were easy to doe it, if once that be granted, which neither Protestants doe, nor any Christian can deny; namely, that Chri<g ref="char:EOLhyphen"/>stian Fayth is infallibly <hi>true,</hi> and, not only <hi>probable.</hi> For, seing this very man confesses, that we cannot know Scripture to be the word of God, by Scripture it selfe, nor by any other meanes except the <hi>Tradition</hi> of Gods Church; if she be fallible, our beliefe of Scri<g ref="char:EOLhyphen"/>pture, and all verities contained therin, cannot be certaine, and infallible. We must therfore grant the true Church of Christ to be infallible, if we will maintaine Christian fayth to be certainly true.</p>
+            </div>
+            <div n="2" type="motif">
+               <head>MOTIVE II.</head>
+               <p>Because <hi>Luther</hi> and his followers separating from the Church of <hi>Rome,</hi> separated also from all Churches, pure or impure, true or false then being in the world; vpon which ground I conclude, that ei<g ref="char:EOLhyphen"/>ther Gods promises did faile of performance, if there were then no Church in the world, which held all
+<pb n="6" facs="tcp:2908:4"/>things necessary, and nothing repugnant to Salua<g ref="char:EOLhyphen"/>tion; or else that Luther and his Sectaries, separating from all Churches then in the world, and so from the true, if there were any true, <hi>were damnable Schismatiks.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>ANSWERE.</head>
+               <p>
+                  <hi>God hath neither decreed, nor foretold, that there shall be alwayes a company of men free from all errour in it selfe damnable: Neither is it alwayes of necessity Schismaticall, to separate from the externall communion of a Church though wanting nothing necessary. For if this Church sup<g ref="char:EOLhyphen"/>posed to want nothing necessary, require me to professe a<g ref="char:EOLhyphen"/>gainst my conscience, that I belieue some errour though ne<g ref="char:EOLhyphen"/>uer so small and innocent, which I do not belieue, &amp; will not allow me her communion but vpon this condition: In this case, the Church, for requiring this condition, is Schismati<g ref="char:EOLhyphen"/>call, and not I for separating from the Church.</hi>
+               </p>
+            </div>
+            <div type="reply">
+               <head>REPLY.</head>
+               <p>I haue already demonstrated that the first part of his <hi>Answere</hi> is false, for if the Church be infallible, she is free from all errour in fayth. Nay it being the common, and as it were, naturall conceipt, and be<g ref="char:EOLhyphen"/>liefe of all Christians, that it is a damnable sinne of <hi>Schisme,</hi> to forsake the communion of Gods Church; we must of necessity inferre, that she is not subiect to errour, (for if she were, we might lawfully forsake her) and not contratily, say, that it is lawfull to for<g ref="char:EOLhyphen"/>sake her Communion, because she may, and hath fal<g ref="char:EOLhyphen"/>len into errour. And this was one of the reasons, which <hi>Charity Maintayned</hi> brought, to proue, that Gods Church is infallible, &amp; consequently, that to
+<pb n="7" facs="tcp:2908:4"/>disagree from her in <hi>Doctrine,</hi> was <hi>Heresy,</hi> and <hi>Schisme</hi> to leaue her <hi>Communion.</hi> Thus then, insteed of vindi<g ref="char:EOLhyphen"/>cating Protestants from <hi>Schisme,</hi> he yields them guil<g ref="char:EOLhyphen"/>ty both of <hi>Schisme,</hi> and <hi>Heresy,</hi> in affirming that they <hi>separated from all Churches, true or false, then being in the world.</hi> The rest of his <hi>Answere</hi> seemes to me a ridle, or an vnconsequent piece of Doctrine. For, suppose a man disagree from Gods Church in Profession of Fayth, refuse to participate in the same Sacraments, auoide her publike seruice or Liturgy, and disobey her Prelates; it seemes, by this mans new Diuinity, that such a one is still a member of that Church. He might as well persuade the world, that there is no such thing, as hitherto all Christians haue called <hi>Schisme,</hi> at least, while a man hath leaue to follow his owne conscience or discourse; wherin if he be restrai<g ref="char:EOLhyphen"/>ned, then the <hi>Church,</hi> and not <hi>he</hi> must be accounted <hi>Schismaticall.</hi> And why? Because she will not allow such a man her <hi>Communion,</hi> but <hi>vpon condition,</hi> that he professe the same fayth with her. And how can she doe otherwise? Can they be of her fayth, and Com<g ref="char:EOLhyphen"/>munion, who haue already opposed her fayth, &amp; re<g ref="char:EOLhyphen"/>iected her Communion, and done as much as in them lyes, to make a separation? They then, who se<g ref="char:EOLhyphen"/>parate themselues, doe that, which of it selfe, makes their Communion with the Church to be impossi<g ref="char:EOLhyphen"/>ble, though she were silent, and did leaue euery man to his liberty. For, Profession of the same Fayth, par<g ref="char:EOLhyphen"/>ticipation in the same Sacraments, Concurrence at the same publike seruice and worship of God, and Obedience to the same Superiours, are <hi>conditions</hi> ne<g ref="char:EOLhyphen"/>cessary of their owne nature for vnity in Commu<g ref="char:EOLhyphen"/>nion,
+<pb n="8" facs="tcp:2908:5"/>whether they be required by any Church, or no. And therfore, not the Church, for requiring these, but they for putting the contrary conditions are to be accounted <hi>Schismaticall.</hi> In the meane time; doth not this man make a daungerous Apology for <hi>Precisians,</hi> and all sorts of refractary persons, if they be forced to obseruances, which to their Conscience seeme superstitious? For, to vse his words, <hi>In this case the Church, for requiring this condition, is Schismaticall, &amp; not they for separating from the Church.</hi> Or, if this man be an <hi>Arian,</hi> and the Church of England should de<g ref="char:EOLhyphen"/>ny him her Communion vnlesse he confessed the B. Trinity, and Deity of Christ our Lord; not he, but the Church of <hi>England,</hi> must be branded with the Epi<g ref="char:EOLhyphen"/>theton of <hi>Schismaticall.</hi>
+               </p>
+            </div>
+            <div n="3" type="motif">
+               <head>MOTIVE III.</head>
+               <p>Because, if any credit may be giuen to as credi<g ref="char:EOLhyphen"/>table records as any are extant, the Doctrine of the Catholicks hath byn frequently confirmed; and the opposite doctrine of Protestants, confounded with supernaturall, and diuine miracles.</p>
+            </div>
+            <div type="answer">
+               <head>ANSWERE.</head>
+               <p>
+                  <hi>If any credit may be giuen to Records farre more cre<g ref="char:EOLhyphen"/>ditable thon these, the Doctrine of Protestants, that is, the Bible, hath been confirmed, and the Doctrine of Papists, which is in many points plainly opposite to it, confounded with supernaturall, and diuine Miracles, which for number and glory outshine Popish pretended Miracles, as much as the Sunne doth an</hi> ignis fatuus; <hi>those I meane which were wrought by our Sauiour Christ and his Apostles. Now this
+<pb n="9" facs="tcp:2908:5"/>booke, by the confession of all sides confirmed by innume<g ref="char:EOLhyphen"/>rous Miracles, foretels me plainly, that in after ages great signes and wonders shall be wrought in confirmation of false doctrine, and that I am not to belieue any doctrine, which seemes to my vnderstanding repugnant to the first, though an Angell from Heauen should teach it; which were cer<g ref="char:EOLhyphen"/>tainly as great a Miracle, as any that was euer wrought in attestation of any part of the Doctrine of the Church of Rome: But, that true Doctrine should in all ages haue the testimony of Miracles, that I am no where taught; So that I haue more reason to suspect, and be afrayd of pretended mi<g ref="char:EOLhyphen"/>racles, as signes of false Doctrine, then much to regard them as certain arguments of the truth. Besides, setting aside the Bible, and the Tradition for it, there is as good Story for Mi<g ref="char:EOLhyphen"/>racles wrought by those, who liued and died in opposition to the doctrine of the Roman Church (as by S. Cyprian, Col<g ref="char:EOLhyphen"/>mannus, Columbanus, Aidanus, and others) as there is for those that are pretended to be wrought by the members of that Church. Lastly, it seemes to me no strange thing, that God in his Iustice should permit some true Miracles to be wrought, to delude them who haue forged so many, as ap<g ref="char:EOLhyphen"/>parently the Professors of the Roman Doctrine haue; to a<g ref="char:EOLhyphen"/>buse the world.</hi>
+               </p>
+            </div>
+            <div type="reply">
+               <head>REPLY.</head>
+               <p>I could in the very beginning stop his course, by telling him with much truth, and profit too, <hi>that the miracles which were wrought by our Sauiour Christ, and his Apostles,</hi> did primarily and immediatly gaine Autho<g ref="char:EOLhyphen"/>rity and credit to their <hi>Persons,</hi> and by consequence only to their <hi>Writings,</hi> as being penn'd by them, who's Authority was made most worthy to be credi<g ref="char:EOLhyphen"/>ted by miracles. If he aske, to what purpose do I put
+<pb n="10" facs="tcp:2908:6"/>in this word of Consideration? I answere, that it is done in opposition to a certaine vnchristian doctrine of his. For if the Apostles, and the whole Church, notwithstanding those miracles, may be belieued to haue erred, as this man teaches<note n="(a)" place="margin">Pag. <hi>137.</hi> n. <hi>21.</hi> &amp; pag. <hi>144.</hi> n. <hi>31.</hi>
+                  </note> they did, the Bible can much lesse be said to haue been confirm'd by those miracles, in such manner as nothing in it can be erroneous; because, as I said, the whole credit of Scripture, is grounded vpon the Authority and In<g ref="char:EOLhyphen"/>fallibility of the Writers therof. But I need not insist vpon this point; for do not we also receaue the Bi<g ref="char:EOLhyphen"/>ble? Yea do not all Hereticks in a manner, pretend to belieue it, and their doctrine to be agreable to it? This plea then is too generall, especially, for this oc<g ref="char:EOLhyphen"/>casion. But, sayes he, <hi>This Booke foretels me plainly, that in after ages great signes and wonders shall be wrought, in confirmation of false Doctrine.</hi> What then? Must we belieue that no signes and wonders are true, because some are false? Then, we must reiect all true Scrip<g ref="char:EOLhyphen"/>ture, because diuers false Scriptures haue been for<g ref="char:EOLhyphen"/>ged. Thē may we despise those very miracles, which were wrought in confirmation of the Bible: and so with this his Argument drawne from Scripture, he ouer throwes Scripture it selfe. Did the Apostles themselues, and Apostolicall men worke no true mi<g ref="char:EOLhyphen"/>racles, after the time wherin Scripture had foretold, that great wonders should be wrought in confirma<g ref="char:EOLhyphen"/>tion of false Doctrine? Neither speakes he to any pur<g ref="char:EOLhyphen"/>pose in these words: <hi>That true Doctrine should in all Ages haue the testimony of miracles, that I am no where taught.</hi> For the <hi>Motiue</hi> only said, <hi>that the Doctrine of Catholiks, hath been frequently confirmed, and the opposite
+<pb n="11" facs="tcp:2908:6"/>doctrine of Protestants confounded with supernaturall, and diuine Miracles.</hi> Now, though it were granted that <hi>true Doctrine</hi> had not <hi>in all Ages the testimony of miracles,</hi> (which heere I do not examine, as being a thing no<g ref="char:EOLhyphen"/>thing to the purpose) yet it is very true, that all Do<g ref="char:EOLhyphen"/>ctrines <hi>confirmed</hi> by miracles are true, and that they are false which haue been confounded by them But he willingly thrust's in matter to diuert the question from the true state. As here he does againe in the ve<g ref="char:EOLhyphen"/>ry next words, wherin he alledges the example of some, who liued and dyed in opposition to the Do<g ref="char:EOLhyphen"/>ctrine of the Roman Church (he meanes, as I con<g ref="char:EOLhyphen"/>ceaue, rebaptizing of such as were baptized by Here<g ref="char:EOLhyphen"/>tiques; and keeping of Easter at the same time with the Iewes; both which errours haue been condem<g ref="char:EOLhyphen"/>ned by the whole Catholike Church, (and not only by the Church of Rome;) and yet, sayes he, there is <hi>as good Story for miracles wrought by them, as there is for those that are pretēded to be wrought by the mēbers of our Church.</hi> All which is impertinent, vnlesse he can shew that they wrought miracles in confirmation of that do<g ref="char:EOLunhyphen"/>ctrine,<note place="margin">God hath ap<g ref="char:EOLhyphen"/>pointed miracles as signes of true doctrin. <hi>Exod.</hi> 4. <hi>Matth.</hi> 11.5. <hi>Ioan.</hi> 15.24. <hi>Mar. vlt.</hi> 17.1. <hi>Cor.</hi> 12. <hi>Hebr.</hi> 2.4.</note> wherin they disagreed from the Roman Church; for example, that <hi>S. Cyprian</hi> proued by mira<g ref="char:EOLhyphen"/>cle, that Rebaptization of those who had been bapti<g ref="char:EOLhyphen"/>zed by Hereticks, was lawfull. This Answere is cleere, and fit for this occasion and intended breuity: though much more might be said, if I would descend to particulers, concerning the persons whom he al<g ref="char:EOLunhyphen"/>ledgeth to no purpose at all. His last <hi>Answere</hi> is a desperate one, <hi>That it seemes to him no strange thing, that God in his Iustice should permit some miracles to be wrought, to delude them who haue forged so many,
+<pb n="12" facs="tcp:2908:7"/>as apparently the Professours of the Romane Doctrine haue, to abuse the world.</hi> Which doctrine if we receaue, we cannot be certaine, but that the miracles of our Sauiour Christ, and his Apostles, were wrought to delude the Iewes, who receaued so many false Pro<g ref="char:EOLhyphen"/>phets, committed Idolatry; and perpetrated other crimes, for which God in his Iustice might haue per<g ref="char:EOLhyphen"/>mitted them to be deluded by <hi>true</hi> miracles. He should at least haue reflected that by this meanes, he contra<g ref="char:EOLhyphen"/>dicts himselfe, whyle by impeaching the Authority of miracles, he ouerthrowes Scripture it selfe, which in this very <hi>Answere,</hi> he say's, was confirmed by mira<g ref="char:EOLhyphen"/>cles. And he also contradicts what he affirmes in his Booke (<hi>Pag.</hi> 144. <hi>n.</hi> 31.) in these words: <hi>It is impos<g ref="char:EOLhyphen"/>sible that the Eternall Truth should set his hand and seale (by miracles) to the confirmation of a falshood.</hi> Seing then the Professours of our Catholike Religion, men knowen to haue been full of Zeale, integrity, con<g ref="char:EOLhyphen"/>tempt of the world, and eminent for all kind of san<g ref="char:EOLhyphen"/>ctity, haue in euery Age frequently, constantly, and manifestly, wrought wonderous things aboue all created power, wherby God hath been glorifyed, sinners conuerted, and Christian Religion propaga<g ref="char:EOLhyphen"/>ted; and that many of those admirable signes haue been wrought expresly in confirmation of diuers particular Points of our Catholike Fayth, as may be seen in <hi>Bellarmine</hi>
+                  <note n="(b)" place="margin">Cap. <hi>14.</hi> de not. Ec<g ref="char:EOLhyphen"/>cles.</note> and in <hi>Brerely</hi>
+                  <note n="(c)" place="margin">
+                     <hi>Tract.</hi> 2. <hi>cap.</hi> 3. <hi>sect.</hi> 7. <hi>subd.</hi> 1.</note> who out of most credible Authours bring pregnant examples of miracles, wrought in confirmation of our Do<g ref="char:EOLhyphen"/>ctrine, concerning <hi>Prayer to Saints, Reliques, the Image of Christ, Reall presence, sacrifice of Christs body, Purgatory, and Prayer for the dead, the great vertue of the signe of
+<pb n="13" facs="tcp:2908:7"/>the Crosse, Holy-water, Lights in the Church, Reseruation of the Sacrament, Holy Chrisme, Adoration of the Crosse, Confession of sinnes to a Priest, and extreme Vnction;</hi> se<g ref="char:EOLhyphen"/>ing, I say, these things are so euidently true, that they cannot be denyed without impudency, and great scandall to Christian Religion, to which the world hath been conuerted by men of our Church and by meanes of these miracles, which therfore to question, must needs bring the world back to doubt of Chri<g ref="char:EOLhyphen"/>stianity; we must conclude, that his third <hi>Motiue</hi> was true and sound; that his <hi>Answere</hi> not only for<g ref="char:EOLhyphen"/>sakes Protestancy, but vndermines Christian Reli<g ref="char:EOLhyphen"/>gion; and lastly, that we Catholiks to our vnspeaka<g ref="char:EOLhyphen"/>ble comfort, may humbly, yet confidently say with that deuout and learned man:<note n="(d)" place="margin">Rich. de S. Vict. lib. <hi>1</hi> de T<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>t. cap <hi>2.</hi>
+                  </note>
+                  <hi>Domine, si error est quod credimus, à te decepti sumus: ista enim in nobis ijs sig nis &amp; prodigijs confirmata sunt, quae non nisi à Te fieri po tuerunt. If we belieue a falshood, thou, O Lord, hast decea<g ref="char:EOLhyphen"/>ued vs; for the things which we belieue haue been confirmed by such signes and wonders, as could not be wrought but by Thee alone.</hi>
+               </p>
+            </div>
+            <div n="4" type="motif">
+               <head>MOTIVE IV.</head>
+               <p>Because many points of Protestant doctrine, are the damned opinions of Hereticks, condemned by the Primitiue Church.</p>
+            </div>
+            <div type="answer">
+               <head>ANSWERE.</head>
+               <p>
+                  <hi>All those were not Hereticks which by Philastrius Epiphanius, or S. Austine were put in the Catalogue of He<g ref="char:EOLhyphen"/>retiques.</hi>
+               </p>
+            </div>
+            <div type="reply">
+               <head>REPLY.</head>
+               <p>The weakenesse of this <hi>Answere</hi> shewes, that his heart is not with Protestants, nor that it is his inten<g ref="char:EOLhyphen"/>tion,
+<pb n="14" facs="tcp:2908:8"/>to defend them in good earnest. What if all those be not Hereticks, who by these three Authours are put in the Catalogue of Hereticks? There be diuers besides these who haue made Catalogues of Heresies. And to account any doctrine to be an Heresy, it suf<g ref="char:EOLhyphen"/>fices, that we know it to haue byn condemned by the Church, by what meanes soeuer we come to that knowledge. If he had meant well to Protestants, he should haue specified the particular Points, wherin they are accused to agree with Hereticks anciently condemned; and then haue shewed, that they are not such. Or if he could not doe this (as indeed it is im<g ref="char:EOLhyphen"/>possible to be done) he should not haue vsed this ter<g ref="char:EOLhyphen"/>giuersation in matters of Religion, but either haue plainly confessed the truth, or at least not haue put himselfe vpon answering that, which he knew could not be answered in the grounds, which Protestants will seeme to maintaine, namely, Consent with the Ancient Church. But the truth is, he cares not for Antiquity, and therfore with the <hi>Socinians</hi> would rea<g ref="char:EOLhyphen"/>dily grant, that opinions condemned for Heresies by the ancient Church, may be orthodoxe truths. If any desire to be satisfyed, that sundry doctrines of Prote<g ref="char:EOLhyphen"/>stants, are the same with those which haue been con<g ref="char:EOLhyphen"/>demned by the ancient Church, let him read<note n="(e)" place="margin">Bel<g ref="char:EOLhyphen"/>lar. cap. <hi>9.</hi> do not. Eccles.</note>
+                  <hi>Bel<g ref="char:EOLhyphen"/>larmine</hi> and<note n="(f)" place="margin">Brere<g ref="char:EOLhyphen"/>ly Pract. <hi>1</hi> sect. 8. subd. <hi>2.</hi>
+                  </note> other Catholicke Writers.</p>
+            </div>
+            <div n="5" type="motif">
+               <head>MOTIVE V.</head>
+               <p>Because the Prophecyes of the Old Testamēt, tou<g ref="char:EOLhyphen"/>ching the Cōuersion of Kings &amp; Nations to the true Religion of Christ, haue been accomplished in, and by the Catholicke <hi>Roman</hi> Religion, and the Profes<g ref="char:EOLhyphen"/>sors
+<pb n="15" facs="tcp:2908:8"/>of it; and not by Protestant Religion, and the Professours of it.</p>
+            </div>
+            <div type="answer">
+               <head>ANSWERE.</head>
+               <p>
+                  <hi>Kings and Nations haue been, and may be conuerted by men of contrary Religions.</hi>
+               </p>
+            </div>
+            <div type="reply">
+               <head>REPLY.</head>
+               <p>We haue no reason to take his bare words without any proofe. Meanes he, perhaps, that the <hi>Gothes</hi> were conuerted to Christian Religion by Arians? But, <hi>first,</hi> this is false, as <hi>Bellarmine</hi>
+                  <note n="(g)" place="margin">Cap. <hi>12.</hi> do not. Ec<g ref="char:EOLhyphen"/>cles.</note> demonstrates. <hi>Se<g ref="char:EOLhyphen"/>condly,</hi> it is impertinent to proue that the conuersion of <hi>Kings</hi> and <hi>Nations</hi> is not the worke of Catholiks alone. For, euen they who are pretended to haue been conuerted by the <hi>Arians,</hi> were but the lesser part of the <hi>Gothes,</hi> most of them hauing been Catholiks be<g ref="char:EOLhyphen"/>fore, and therefore <hi>Thirdly</hi> this example makes rather for vs, in that of all the world conuerted to Christian Religion, one only poore halfe example, and that not of Protestants, is so much as pretended to the con<g ref="char:EOLhyphen"/>trary; which cannot exempt <hi>Protestants</hi> from that property which <hi>Tertullian</hi>
+                  <note n="(h)" place="margin">Lib. de Praes<g ref="char:EOLhyphen"/>cript. cap. <hi>42.</hi>
+                  </note> affirmes to be common to Nouelists: <hi>Their imployment,</hi> sayth he, <hi>is not to con<g ref="char:EOLhyphen"/>uert Heathens, but to perucrt them who are already conuer<g ref="char:EOLhyphen"/>ted.</hi> And doubtlesse it must needs seem a very prodi<g ref="char:EOLhyphen"/>gious thing, that Hereticks should haue so litle Zeale, or meet with so ill successe in conuerting the world to Christ, if they alone be true Christians; Or that the prophecyes of dilating the Church of <hi>Christ,</hi> should be performed by the endeauours of Catho<g ref="char:EOLhyphen"/>liks, and yet they be not true <hi>Christians:</hi> Or finally, that our Doctrine should be false, and yet it alone should haue that power, and efficacy to <hi>conuert soules,</hi>
+                  <pb n="16" facs="tcp:2908:9"/>which the holy Scripture ascribes to the Doctrine &amp; Law of God (<hi>Psalm.</hi> 18.) And might not Pagans, Iewes, and other enemies of Christian Religion, re<g ref="char:EOLhyphen"/>fuse, not without shew of good reason, to imbrace Christian Fayth, if they could say with truth, that all they who for many Ages past, and at this present la<g ref="char:EOLhyphen"/>bour to make <hi>them</hi> Christians, are <hi>themselues</hi> no true Christians? And who can oblige them to exchange one falshood for another, which is the best they could hope for, by being conuerted to vs, euen though they were persuaded that their owne sect were false? What ill successe Protestants haue found in their poore en<g ref="char:EOLhyphen"/>deauours in this kind, may be seen in<note n="(i)" place="margin">Tract. <hi>2.</hi> cap. <hi>3.</hi> sect. <hi>6.</hi> subd. <hi>3.</hi>
+                  </note>
+                  <hi>Brerely;</hi> who also cites the words of <hi>Beza,</hi> that such <hi>pilgrimages to remote Countreys,</hi> for conuerting of Infidells, <hi>are to be left for the locusts, the Iesuits,</hi> as it pleases him to speake.</p>
+            </div>
+            <div n="6" type="motif">
+               <head>MOTIVE VI.</head>
+               <p>Because the Doctrine of the Church of <hi>Rome</hi> is conformable, and the doctrine of Protestants con<g ref="char:EOLhyphen"/>trary, to the doctrine of the Fathers of the Primitiue Church, euen by the confession of the Protestants themselues; I meane those Fathers who liued within the compasse of the first 600. yeares to whom Prote<g ref="char:EOLhyphen"/>stants themselues do very frequently, and very con<g ref="char:EOLhyphen"/>fidently appeale.</p>
+            </div>
+            <div type="answer">
+               <head>ANSWERE.</head>
+               <p>
+                  <hi>The Doctrine of Papists, is confess'd by Papists contra<g ref="char:EOLhyphen"/>ry to the Fathers in many points.</hi>
+               </p>
+            </div>
+            <div type="reply">
+               <head>REPLY.</head>
+               <p>In this <hi>Anssvere</hi> he clearly forsakes Protestants,
+<pb n="17" facs="tcp:2908:9"/>and yields that, euen by their owne confession, our Doctrine is conformable, and theirs contrary to the doctrine of those Fathers, who liued within the com<g ref="char:EOLhyphen"/>passe of the first 600. yeares. But that our Doctrine is confess'd by vs, to be contrary to the Fathers, we vt<g ref="char:EOLhyphen"/>terly deny, and he could not hope that we should be<g ref="char:EOLhyphen"/>lieue him affirming the cōtrary without any proofe.</p>
+            </div>
+            <div n="7" type="motif">
+               <head>MOTIVE VII.</head>
+               <p>Because the first pretended Reformers had nei<g ref="char:EOLhyphen"/>ther extraordinary <hi>Commission</hi> from God, nor ordi<g ref="char:EOLhyphen"/>nary <hi>Mission</hi> from the Church to preach Protestant Doctrine.</p>
+            </div>
+            <div type="answer">
+               <head>ANSWERE.</head>
+               <p>
+                  <hi>The Pastours of a Church cannot but haue authority from it, to preach against the abuses of it, whether in Do<g ref="char:EOLhyphen"/>ctrine or practice, if there be any in it. Neither can any Christian want an ordinary Commission from God, to doe a necessary worke of Charity after a peaceable manner, when there is no body else that can or will doe it. In extraordinary cases extraordinary courses are not to be disallowed. If some Christian Layman should come into a country of Infidels, &amp; had ability to persuade them to Christianity, who would say be might not vse it for want of Commission?</hi>
+               </p>
+            </div>
+            <div type="reply">
+               <head>REPLY.</head>
+               <p>Heere he is so farre from defending Protestants, that he directly opposes their 23. <hi>Article,</hi> which sayth: <hi>It is not lawfull for any man to take vpon him the office of publike preaching, or ministring the Sacraments, in the Congregation, before he be lawfully called, and sent to exe<g ref="char:EOLhyphen"/>cute
+<pb n="18" facs="tcp:2908:10"/>the same. And those we ought to iudge lawfully called and sent, which be chosen and called to this worke, by men who haue publike Authority giuen them in the Congrega<g ref="char:EOLhyphen"/>tion, to call and send Minislers into the Lords vineyard.</hi> But by this mans doctrine, euery priuate Christian, euen by being a Christian, must haue an <hi>ordinary commission from God himselfe</hi> (which therfore, no Church, Prelate, or Authority can oppose) to teach and preach if need require; because, as he declares himselfe in his Booke,<note n="(k)" place="margin">
+                     <hi>Pag.</hi> 359.</note>
+                  <hi>It is one of the greatest works of Charity, to persuade men out of a false, into a true way of eternall happinesse.</hi> According to which reason of his, not only a Christian, but euery man whatsoeuer, <hi>hath commission from God</hi> to teach, preach, and do other such <hi>necessary works of Charity.</hi> But certainly this Do<g ref="char:EOLhyphen"/>ctrine tends only to the ouerthrow of all Order, O<g ref="char:EOLhyphen"/>bedience, and subordination in the Church of God, that <hi>Socinian</hi> liberty of Iudgment, may be enioyed with all freedome. And it puts into the mouth of vn<g ref="char:EOLhyphen"/>quiet people an answere, whensoeuer they are que<g ref="char:EOLhyphen"/>stioned for preaching their Nouelties, if once they be persuaded in conscience that they are truths. Neither can any such proceeding <hi>be a necessary worke of Charity,</hi> as he pretends: but rather, euen from hence, we are to inferre, that Gods Church is not subiect to errour in points of Doctrine. For if she were, then euery pri<g ref="char:EOLhyphen"/>uat person, might publikely oppose, and preach a<g ref="char:EOLhyphen"/>gainst her Doctrine, and forsake her Communion. From which true ground of the Churches Infallibi<g ref="char:EOLhyphen"/>lity, we deny his supposition, and auouch. That no Prelate, or priuate person can pretend any Authority, to preach against her Doctrine; neither does she in<g ref="char:EOLhyphen"/>tend
+<pb n="19" facs="tcp:2908:10"/>to giue them any such Autority. He sayes, in<g ref="char:EOLhyphen"/>deed, <hi>that in extraordinary cases extraordinary courses are not to be disallowed.</hi> But if euery Christian haue, as he teaches, <hi>an ordinary commission from God,</hi> to do such a worke, how is it <hi>an extraordinary course?</hi> Or if it be <hi>extraordinary,</hi> it must be proued by miracles, which ought to accompany <hi>extraordinary</hi> calling, euen in the opinion of chiefest Protestants, as may be seen in <hi>Bre<g ref="char:EOLhyphen"/>rely</hi>
+                  <note n="(l)" place="margin">Tract. 2 cap. 2. sect. 3. subd. 2.</note>. Our Sauiour Christ sayes of himselfe,<note n="(m)" place="margin">
+                     <hi>Ioan.</hi> 15.24.</note>
+                  <hi>If I had not done among them workes that no other man hath, done, they should not haue sinne:</hi> and yet Scripture did abundantly witnesse, that he was the true Messias. Neither did he oppose any doctrine receaued by the whole Church of the Iewes; and that Church was not to last alwayes. But this man speakes of a case, wherin the whole Church of Christ must be oppo<g ref="char:EOLunhyphen"/>sed, and her Doctrine condemned; euen that Church which hath a promise of perpetuity, from Christ her Lord and spouse. Which considerations require, that whosoeuer pretends an <hi>extraordinary</hi> calling to op<g ref="char:EOLhyphen"/>pose her, ought to proue it by euident miracles. And euen <hi>Luther</hi> is forced to say (how directly against himselfe, &amp; his adherents I leaue others to consider,)<note n="(n)" place="margin">In loc. Com<g ref="char:EOLhyphen"/>mun. clas. 4.</note>
+                  <hi>God neuer sent any, who was not either called by men, or declared by miracles, no not the Sonne of God himselfe.</hi> This man in the meane time does very vnworthily, in comparing the conuerting of Infidells by priuate exhortation, with preaching against Christian Chur<g ref="char:EOLhyphen"/>ches, where Religion is setled, and Bishops (who by diuine Institution are appointed to gouerne Gods Church) ordained. In which case, to say that euery Christian hath <hi>Commission from God,</hi> to preach in op<g ref="char:EOLhyphen"/>position
+<pb n="20" facs="tcp:2908:11"/>to such Superiours, is to fasten a contradi<g ref="char:EOLhyphen"/>ction on the Ordinations, or Commissions of God himselfe. And, euen Infidels are not to be conuerted by priuate persons, without due subordination, and either expresse, or interpretatiue leaue from the law<g ref="char:EOLhyphen"/>full Prelates of Gods Church, but neuer with oppo<g ref="char:EOLhyphen"/>sition, and disobedience to them.</p>
+            </div>
+            <div n="8" type="motif">
+               <head>MOTIVE VIII.</head>
+               <p>Because <hi>Luther</hi> to preach against the Masse (which containes the most materiall points now in contro<g ref="char:EOLhyphen"/>uersy) was persuaded by Reasons suggested to him by the Diuell himselfe, disputing with him. So him<g ref="char:EOLhyphen"/>selfe professeth in his Booke <hi>de Missa priuata:</hi> that all men might take heed of following him, who profes<g ref="char:EOLhyphen"/>seth himselfe to follow the Diuell.</p>
+            </div>
+            <div type="answer">
+               <head>ANSWERE.</head>
+               <p>
+                  <hi>Luthers conference with the Diuell might be for ought I know, nothing but a melancholy dreame. If it were reall, the Diuell might persuade Luther from the Masse, hoping by doing so, to keep him constant to it: Or that others would make his dissuasion from it an Argument for it (as we see Papists doe) and be afraid of following Luther, as confes<g ref="char:EOLhyphen"/>sing himselfe to haue been persuaded by the Diuell.</hi>
+               </p>
+            </div>
+            <div type="reply">
+               <head>REPLY.</head>
+               <p>That <hi>Luthers</hi> conference with the Diuell, was no dreame is demonstratiuely proued by<note n="(*)" place="margin">Con<g ref="char:EOLhyphen"/>olus. sect. 7.8.9.10.</note>
+                  <hi>Brerely.</hi> And though it had been but a dreame, yet this <hi>eight Motiue</hi> is very strong; because <hi>Luther</hi> conceauing it to be a reall Apparition, followed that which according to
+<pb n="21" facs="tcp:2908:11"/>his conscience proceeded from the diuell; and so, his action must, by reason of such his conscience (whe<g ref="char:EOLhyphen"/>ther true, or erroneous) be sinfull, and Diabolicall. Nor could the holy Ghost moue to that action which the party himselfe belieued to proceed from a bad spi<g ref="char:EOLhyphen"/>rit, and yet did not abstaine from it. In his second euasion that the diuell did but dissemblingly dissuade <hi>Luther</hi> from the Masse, <hi>hoping by doing so to keep him and others constant to it,</hi> he imitates his Brethren, or rather Progenitours, the <hi>Arians;</hi> of whom glorious <hi>S. Am<g ref="char:EOLhyphen"/>brose</hi> writes<note n="(o)" place="margin">Serm. 93. de In<g ref="char:EOLhyphen"/>nēt. sorp. S S. Ger<g ref="char:EOLhyphen"/>nasij &amp; Protasij.</note> thus: <hi>Dicunt damones martyribus, veni<g ref="char:EOLhyphen"/>stis perdere nos: Ariani dicunt, non sunt daemonum vera tormentae, sed ficta &amp; composita ludibria. The diuels say to the Martyrs, you are come to destroy vs: The Arians say, they are not true torments which the Diuels suffer, but fei<g ref="char:EOLhyphen"/>gned and compacted deceits.</hi> Thus also, when the diuels were forced to fly from <hi>Iulian</hi> the <hi>Apostate,</hi> who frighted with the sight of them blessed himselfe with the holy signe of the Crosse, a Magician told him, that the diuels sled, not out of feare to the Crosse as they seemed to doe, but in detestation of his signing himselfe with the signe of the Crosse<note n="(p)" place="margin">Theod lib. <hi>3.</hi> c. <hi>3.</hi>
+                  </note> But if men may thus be more crafty then the Diuell, in vaine shall we persuade any man hereafter, to fly from that towards which the Diuell tēpts him. For, it may be belieued, that the Diuell tempts him to it dissemblingly, to the end he may fly from it: and for the same reason, in vaine haue spirituall men giuen Rules for discerning, whether or no, the motions which we feele in our soules, proceede from a bad spirit. It seemes this man is resolued to spare neither God, nor the Diuell. He told vs before<note n="(q)" place="margin">Aus<g ref="char:EOLhyphen"/>were to the third Motiue.</note> that mira<g ref="char:EOLhyphen"/>cles,
+<pb n="22" facs="tcp:2908:12"/>which are works proper to God alone, may be intended by him to an End contrary to that, for which they seeme to be wrought: Heere, he charges the <hi>Diuell</hi> to pretend one thing, and intend another in his persuasions, or temptations. I wish that him<g ref="char:EOLhyphen"/>selfe be free from belieuing, that <hi>men</hi> also, may dis<g ref="char:EOLhyphen"/>semble, euen in matters of <hi>Fayth.</hi> But because it were a sinne, either to bely the diuell, or deny him his due; it must be acknowledged, that he spak as he meant, and meant to persuade <hi>Luther,</hi> and others by his mea<g ref="char:EOLhyphen"/>nes, to reiect and impugne the Masse: and none ought to be blamed for saying, that the Diuell vpon this ground had a chiefe hand in drawing Germany to <hi>Lutheranisme,</hi> from the ancient Catholicke Fayth, which they had imbraced, by the preaching of <hi>S. Bo<g ref="char:EOLhyphen"/>niface,</hi> and other Apostolicall holy men.</p>
+            </div>
+            <div n="9" type="motif">
+               <head>MOTIVE IX.</head>
+               <p>Because the Protestant cause is now, and hath byn from the beginning, maintained with grosse fal<g ref="char:EOLhyphen"/>sifications, and calumnies, whereof their prime Con<g ref="char:EOLhyphen"/>trouersy-writers, are notoriously, &amp; in a high degree guilty.</p>
+            </div>
+            <div type="answer">
+               <head>ANSWERE.</head>
+               <p>Iliacosintra muros peccatur, &amp; extra. <hi>Papists are more guilty of this fault then Protestams. Euen this very author in this very Pamphlet hath not so many leaues, as fal<g ref="char:EOLhyphen"/>sifications and calumnyes.</hi>
+               </p>
+            </div>
+            <div type="reply">
+               <head>REPLY.</head>
+               <p>We may for our part, be content to let him leaue Protestant Writers with the imputation of falsifiers, and calumniatours as he does. But we can giue him
+<pb n="23" facs="tcp:2908:12"/>no commission, to speake against vs, more then he can proue, or hath any shadow of truth. It is strange that the <hi>Directour</hi> could possiblily vtter so many fal<g ref="char:EOLhyphen"/>sifications in citing so very few Authours, which, if I mistake not, are about six in all. And I am well assu<g ref="char:EOLhyphen"/>red, that he citeth not any one of those Authours, without hauing first both seen, and pondered the pla<g ref="char:EOLhyphen"/>ces. And till he proue at least <hi>one</hi> of those <hi>many</hi> falsifi<g ref="char:EOLhyphen"/>cations, he must not take it ill, if I doe not belieue him. Neuerthelesse, there is a maine difference be<g ref="char:EOLhyphen"/>tween Catholiks and Protestants in this particular, though our Writers were granted by vs to be as guil<g ref="char:EOLhyphen"/>ty of this crime, as by him our Aduersaries are. For we do not rely, either vpon our owne vnderstan<g ref="char:EOLhyphen"/>ding, or on the iudgment, and fidelity of any priuate person. But, Protestants, not belieuing any Infallible publike liuing Iudge of Controuersy, must depend very much, on the fidelity of their <hi>prime Controuersy Writers,</hi> whome this man affirmes, <hi>to be notorionsly, &amp; in a high degree guilty of grosse falsifications and calumnies.</hi>
+               </p>
+            </div>
+            <div n="10" type="motif">
+               <head>MOTIVE X.</head>
+               <p>Because by denying all humane authority, either of Pope or Councels, or Church, to determine con<g ref="char:EOLhyphen"/>trouersiers of Fayth, they haue abolished all possible meanes of suppressing Heresy, or restoring Vnity to the Church.</p>
+            </div>
+            <div type="answer">
+               <head>ANSWERE.</head>
+               <p>
+                  <hi>Let all men belieue the Scripture, and that only, and en<g ref="char:EOLhyphen"/>deauour to belieue it in the true sense, and require no more of others; and they shall find this not only a better, but the only meanes to suppresse heresy, &amp; restore vnity. For he that
+<pb n="24" facs="tcp:2908:13"/>belieues the Scripture sincerely, and endeauours to belieue it in the true sense, cannot possibly be an Hereticke. And if no more then this were required of any man, to make him capable of the Churches Communion; then all men so quali<g ref="char:EOLhyphen"/>fied, though they were different in opinion, yet notwithstan<g ref="char:EOLhyphen"/>ding any such difference, must be of necessity one in Com<g ref="char:EOLhyphen"/>munion.</hi>
+               </p>
+            </div>
+            <div type="reply">
+               <head>REPLY.</head>
+               <p>The summe of his <hi>Answere,</hi> is this: Let a man be<g ref="char:EOLhyphen"/>lieue the Scripture, and for the interpretation of it, be guided by himselfe alone, and then there can be no <hi>Heresy,</hi> but all must be of <hi>one Communion.</hi> A paradoxe sufficiently confuted, only by being recited. Such a Church of <hi>Socinians,</hi> will indeed abound with <hi>Vnity,</hi> or rather <hi>singularity,</hi> of euery man a part by himselfe: but it can neuer hope to enioy <hi>Vnion,</hi> or <hi>Communion</hi> of one with another.</p>
+               <p>Thus, I hope, the Reader cleerly perceaues, that, as I said in the beginning, Protestants are forsaken in this mans <hi>Answers,</hi> and grounds layd to introduce a new vnchristian Sect. But yet notwithstanding his contrary intentions, men who haue a feeling care of their owne soules, will see, both the force of his <hi>Motiues,</hi> and that the <hi>Infallibility</hi> of Gods Church, &amp; the necessity of <hi>a liuing Guide</hi> in the way to Heauen, manifestly appeares, by his very <hi>Answers</hi> and <hi>Exam<g ref="char:EOLhyphen"/>ple,</hi> which demonstrate, that whosoeuer relyes not on such a <hi>Rocke,</hi> must be <hi>inconstant in all his wayes.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
